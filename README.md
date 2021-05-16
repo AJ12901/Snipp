@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+(Please provide Firebase credentials in /firebase/config.js)
 
 ## Available Scripts
 
